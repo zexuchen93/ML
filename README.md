@@ -1,3 +1,3 @@
 ## ML projects
-### 1. Customer churn prediction<br>
-### 2. *Natural Language Processing
+### 1. Customer Churn Prediction<br>
+### 2. Natural Language Processing and Topic Modeling
